@@ -1,4 +1,5 @@
-"""
+> This file is part of ψ_total and is licensed under the GNU GPLv3. See LICENSE.md for details.
+
 RHK_MathSheet_v0.043.py
 
 Recursive Harmonics Kernel v0.043 — General Equation and Fork Resolution Principle
