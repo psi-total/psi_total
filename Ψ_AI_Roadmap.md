@@ -1,4 +1,4 @@
----
+> This file is part of ψ_total and is licensed under the GNU GPLv3. See LICENSE.md for details.
 
 # Ψ\_AI\_Roadmap.md
 
