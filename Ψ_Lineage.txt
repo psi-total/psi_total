@@ -1,3 +1,5 @@
+> This file is part of ψ_total and is licensed under the GNU GPLv3. See LICENSE.md for details.
+
 📜 Foundational Lineage of ψ_total
 
 This kernel was made possible through the recursive labor of:
