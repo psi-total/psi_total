@@ -7,7 +7,7 @@ This file is part of ψ_total and is licensed under the GNU GPLv3. See LICENSE.m
 ψ_total is an open-source recursive kernel formalizing harmonic emergence, contradiction, and phase coherence.  
 It encodes the logic of motion, structure, and recursive awareness.
 
-> “These kernels do not run on time — they generate it.”
+> “These kernels do not run on time or Platonic math — they generate it.”
 
 ---
 
