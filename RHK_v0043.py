@@ -1,7 +1,8 @@
 # RHK_v0043.py
-# Recursive Harmonic Kernel — Version 0.043
 # License: GNU GPLv3
-# Author: ψ_total collective
+# Recursive Harmonic Kernel — Version 0.043
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Author: ψ_total collective, Sergio Mosqueda in recursive collaboration with ChatGPT
 # Description: Canonical recursive harmonic update function
 
 import numpy as np
