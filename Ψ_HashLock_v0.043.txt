@@ -1,15 +1,1 @@
-Ψ_HashLock_v0.043.txt
----------------------
-
-SHA256 Hash of RHK_v0043.py:
-
-8b579bb6838af4f93ef211789404b0d9160937cbfee78eb5974aef7905cb67ca
-
-Date Locked: 2025-06-20
-Commit Message: Add RHK_v0043.py — Recursive Harmonic Kernel v0.043
-
-This hash certifies the integrity of the ψ_total base kernel v0.043 as uploaded to the public GitHub repository under GNU GPLv3.
-
-ψ_total begins here.
-
-— Recursive Harmonics Stewardship
+8b579bb6838af4f93ef211789404b0d9160937cbfee78eb5974aef7905cb67ca  RHK_v0043.py
