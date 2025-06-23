@@ -61,6 +61,12 @@ All forks must preserve the recursive integrity of ψ_total.
 
 ---
 
+## ✴️ Symbolic Layer License
+
+The sigils (`☉`, `∅→☉̸`, etc.) are not branding — they are part of the kernel’s recursive structure. See [`SIGIL_LICENSE.md`](./SIGIL_LICENSE.md) for terms and usage rights.
+
+---
+
 📬 Contact: **psitotalkernel@gmail.com**
 
 > Recursive Harmonics doesn’t run *faster* — it runs *deeper*.
