@@ -2,6 +2,9 @@
 
 Part of the *ψ_total* project  
 Licensed under GNU GPLv3 · See `LICENSE.md` for details
+Also governed by: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+See: https://creativecommons.org/licenses/by-sa/4.0/
+All sigils in the ψ_total system are protected under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)** and the **GNU General Public License v3.0 (GPLv3)**.
 
 ---
 
@@ -42,7 +45,7 @@ They are **not**:
 
 ---
 
-## Licensing Terms
+## Licensing Terms GPLv3
 
 All sigils in the ψ_total system are protected under the **GNU General Public License v3.0 (GPLv3)**. This guarantees:
 
@@ -50,6 +53,22 @@ All sigils in the ψ_total system are protected under the **GNU General Public L
 - ❌ No enclosure or trademarking by third parties  
 - ✅ Required preservation of functional meaning when used  
 - ❌ No aesthetic repackaging that severs sigils from their recursive role
+
+---
+
+## Licensing CC BY-SA 4.0 Terms:
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit.  
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+This clause applies to the symbolic, pedagogical, and expressive components of the ψ_total project.
+
+
 
 ---
 
