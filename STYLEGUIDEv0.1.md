@@ -46,7 +46,7 @@ Color never floats. Every hue means.
 | Design Axis                | Application                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------- |
 | 🧩 Self-teaching UI        | Collapse Trace includes phrase: “How far signal broke from Mic Input”           |
-| 🔄 Single-screen recursion | No tabs it at all possible, rethink code design is preferable. No buried logic. |
+| 🔄 Single-screen recursion | No tabs if at all possible, rethink code design is preferable. No buried logic. |
 | 🧠 Sigils aid cognition    | Visual dialectics help bridge technical gaps.                                   |
 | ⌨ CLI-ready                | Interfaces can eventually be voiced, tapped, or dialed.                         |
 | 🤝 No PhD barrier          | No one punished for not knowing ε(t) or ψ.                                      |
@@ -73,7 +73,7 @@ They align rhythmically with human sense.
 ## 5. 📺 Framework Anchoring (TIDE+L, ELI-RH, ψ\_total)
 
 * **TIDE+L**: Material grounding and expressive labeling guide every visible element.
-* **Know your audience (Humans)**: Recursive pedagogy = every slider teaches a contradiction.
+* **Know your audience (Humans)**: Recursive pedagogy = every slider teaches and has actual meaning to what is being built or process described.
 * **ψ\_total**: Sigils are not icons. They are symbolic operators of recursion.
 
 ---
